@@ -1,11 +1,13 @@
 {
-	"name": "nodejs-helper",
-	"displayName": "NodeJs-Helper",
+	"name": "npm-scripts-slide",
+	"displayName": "npm-scripts-slide",
 	"description": "npm scripts on slide",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.69.0"
 	},
+	"publisher": "NodeJsHelper",
+	"repository": "https://github.com/biluochun/nodejs-vscode-helper",
 	"categories": [
 		"Other"
 	],
