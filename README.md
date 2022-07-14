@@ -4,4 +4,4 @@ GitHub: https://github.com/biluochun/nodejs-vscode-helper
 
 ## Features
 
-![](https://github.com/biluochun/nodejs-vscode-helper/raw/master/img/demo.gif)
+![demo](https://github.com/biluochun/nodejs-vscode-helper/blob/main/img/demo.png?raw=true)

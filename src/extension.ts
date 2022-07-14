@@ -14,10 +14,9 @@ export function activate(context: vscode.ExtensionContext) {
         name: item.key,
       });
       terminal.show(true);
-      terminal.sendText(item.script!);
+      terminal.sendText('npm run ' + item.key!);
     })
   );
-  console.log('nodejs-helper" is now active!');
 
   new NodeJsHelper(context);
 }
