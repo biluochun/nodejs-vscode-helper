@@ -11,7 +11,7 @@
 	"categories": [
 		"Other"
 	],
-	"icon": "https://github.com/biluochun/nodejs-vscode-helper/blob/main/img/icon.png?raw=true",
+	"icon": "img/icon.png",
 	"activationEvents": [
 		"workspaceContains:package.json"
 	],
